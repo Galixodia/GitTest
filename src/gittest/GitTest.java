@@ -12,6 +12,7 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("Hola Mundo 2");
         //hola mundo
+        System.out.println("Chao Mundo 2");
     }
     
 }
